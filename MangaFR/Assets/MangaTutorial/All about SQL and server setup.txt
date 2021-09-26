@@ -1,0 +1,33 @@
+MYSQL SERVER
+
+----- AMAZON AWS ------
+https://www.youtube.com/watch?v=K7xBdiGFP0U&ab_channel=Webslesson
+
+---- SETUP LAMP SERVER UBUNTU -----
+https://www.youtube.com/watch?v=TKLPDbSqOPY&ab_channel=STS
+
+----- PORTFORWARDING -----
+https://www.youtube.com/watch?v=uyF3gC9lQtE&ab_channel=BitcoinDaytrader
+https://www.youtube.com/watch?v=KvLj-TNXFDs&ab_channel=BitcoinDaytrader
+
+
+
+
+UNITY AND SQL TUTORIALS
+
+Complete Unity-C#-PHP-MySQL tutorial series
+https://www.youtube.com/playlist?list=PLTm4FjoXO7nfn0jB0Ig6UbZU1pUHSLhRU 
+
+Unity - Download images from database
+https://www.youtube.com/watch?v=BhkS8xmGIMc&ab_channel=StuffMattSayz
+
+Unity - Upload to database
+https://www.youtube.com/watch?v=xfu0RQJ4ksY&ab_channel=Creagines
+
+
+
+
+USEFUL SQL COMMANDS
+
+-- Supprimer une ligne d'une table à une nom donné -- 
+   DELETE FROM table_name WHERE name='column_name';
